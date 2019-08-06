@@ -8,6 +8,7 @@ my_list = [2, 5, 6, 7, 10]
 for number in my_list:
     print(number ** 2)
 
+
 user_want = True
 while user_want == True:
     print(10)
