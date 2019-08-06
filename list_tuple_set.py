@@ -17,6 +17,6 @@ print(set_grade)
 
 lottery_num ={1, 3, 10, 18 ,55}
 win_num = {1, 10 ,15, 18, 20 }
-print(lottery_num.intersection(win_num))#交集
-print(lottery_num.union(win_num))#連集
+print(lottery_num.intersection(win_num))  #交集
+print(lottery_num.union(win_num))  #連集
 print(lottery_num.difference(win_num))
